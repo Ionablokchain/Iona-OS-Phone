@@ -37,3 +37,20 @@ IONA OS Phone is a complete smartphone operating system designed for privacy, se
 ```bash
 cargo build --target aarch64-iona-none --release
 ./build-arm64.sh
+The resulting kernel boots on Samsung Exynos hardware.
+
+License
+MIT
+
+Links
+IONA OS PC
+
+IONA Protocol
+
+Carpel Language
+
+Nihilo OS
+
+Flux Language
+
+Website
