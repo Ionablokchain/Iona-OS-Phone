@@ -1,3 +1,4 @@
+
 # IONA OS Phone
 
 **A sovereign mobile operating system built from scratch in Rust.**
@@ -60,6 +61,8 @@ which spans desktop, mobile, blockchain, AI, and custom programming languages.
 | Quick Settings / Notifications | ✅ Done | 16 toggle tiles, notification history, edge lighting |
 | Keyboard (IME) | ✅ Done | QWERTY, word prediction, haptic feedback, voice input |
 
+<img width="726" height="462" alt="Screenshot 2026-04-18 064622" src="https://github.com/user-attachments/assets/be9813db-afc9-41f5-a231-02e3259b6865" />
+
 ### Apps & Ecosystem
 | Subsystem | Status | Description |
 | :--- | :--- | :--- |
@@ -69,6 +72,9 @@ which spans desktop, mobile, blockchain, AI, and custom programming languages.
 | Wallet | ✅ Done | IONA payments, crypto, digital ID, FIDO2 |
 | Settings | ✅ Done | Full settings with 12 categories |
 | App Store | ✅ Done | Sovereign app registry with signature verification |
+
+<img width="793" height="497" alt="Screenshot 2026-04-18 064654" src="https://github.com/user-attachments/assets/4905521e-1df8-49f2-89f1-930370a3c0ff" />
+
 
 ### AI & Intelligence
 | Subsystem | Status | Description |
@@ -84,5 +90,4 @@ which spans desktop, mobile, blockchain, AI, and custom programming languages.
 
 ```bash
 cargo build --target aarch64-iona-none --release
-./build-arm64.sh<img width="793" height="497" alt="Screenshot 2026-04-18 064654" src="https://github.com/user-attachments/assets/cec0ffb6-5ff0-4bf3-9e68-ce14a9fa252a" />
-<img width="726" height="462" alt="Screenshot 2026-04-18 064622" src="https://github.com/user-attachments/assets/1f8621a2-f411-4d39-995c-1e777498b99a" />
+./build-arm64.sh
