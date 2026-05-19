@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "endpoints": [
+    "/status",
+    "/services",
+    "/snapshots",
+    "/recovery/restore",
+    "/control/restart"
+  ],
+  "binding": "runtime_control_default"
+}

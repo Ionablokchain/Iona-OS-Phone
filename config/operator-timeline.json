@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "timeline": [
+    "events",
+    "snapshots",
+    "incidents",
+    "rollouts"
+  ],
+  "view": "ops_chronology_default"
+}

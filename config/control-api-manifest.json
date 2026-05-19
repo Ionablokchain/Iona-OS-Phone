@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "endpoints": [
+    "/status",
+    "/services",
+    "/snapshots",
+    "/control/restart"
+  ],
+  "transport": "governed_runtime_default"
+}

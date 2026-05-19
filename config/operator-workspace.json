@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "views": [
+    "runtime_health",
+    "services",
+    "snapshots",
+    "operator_actions"
+  ],
+  "workspace": "iona_runtime_ops"
+}

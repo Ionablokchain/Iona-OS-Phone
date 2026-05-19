@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "fleet_groups": [
+    "core",
+    "control",
+    "ops",
+    "recovery"
+  ],
+  "policy": "governed_fleet_default"
+}

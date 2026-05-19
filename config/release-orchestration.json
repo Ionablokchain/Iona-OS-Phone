@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "phases": [
+    "approve",
+    "stage",
+    "rollout",
+    "verify"
+  ],
+  "policy": "governed_runtime_release_default"
+}

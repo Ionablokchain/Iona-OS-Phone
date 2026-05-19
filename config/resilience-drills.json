@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "drills": [
+    "snapshot_restore",
+    "service_restart",
+    "staged_rollout_abort",
+    "control_failover"
+  ],
+  "mode": "governed_runtime_rehearsal"
+}

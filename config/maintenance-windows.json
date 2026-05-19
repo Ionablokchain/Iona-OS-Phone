@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "windows": [
+    "nightly",
+    "weekly",
+    "emergency"
+  ],
+  "scheduler": "governed_runtime_maintenance"
+}

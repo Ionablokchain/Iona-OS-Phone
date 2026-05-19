@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "panels": [
+    "health",
+    "events",
+    "snapshots",
+    "recovery",
+    "controls"
+  ],
+  "bundle": "runtime_ops_default"
+}

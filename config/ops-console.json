@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "surfaces": [
+    "cockpit",
+    "timeline",
+    "health",
+    "controls"
+  ],
+  "layout": "ops_console_default"
+}

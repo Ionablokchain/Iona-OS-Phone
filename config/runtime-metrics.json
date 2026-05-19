@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "metrics": [
+    "loop_latency",
+    "service_restarts",
+    "snapshot_count",
+    "incident_count"
+  ],
+  "profile": "runtime_default"
+}

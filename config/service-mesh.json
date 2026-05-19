@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "mesh_domains": [
+    "control",
+    "ops",
+    "recovery",
+    "release"
+  ],
+  "routing": "governed_runtime_mesh_default"
+}

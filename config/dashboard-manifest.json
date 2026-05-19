@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "panels": [
+    "runtime_health",
+    "service_registry",
+    "event_loop",
+    "operator_controls"
+  ],
+  "layout": "governed_runtime_default"
+}
