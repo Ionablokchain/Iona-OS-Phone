@@ -1,0 +1,36 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+usage() {
+  cat <<'USAGE'
+iona-ops - governed runtime operator CLI
+
+Usage:
+  iona-ops status
+  iona-ops services
+  iona-ops daemon
+  iona-ops help
+USAGE
+}
+
+CMD="${1:-help}"
+
+case "$CMD" in
+  status)
+    echo "iona-ops status: runtime surface reachable"
+    ;;
+  services)
+    echo "iona-ops services: service-registry, runtime-daemon, event-loop, operator-cli"
+    ;;
+  daemon)
+    echo "iona-ops daemon: supervised governed runtime"
+    ;;
+  help|--help|-h)
+    usage
+    ;;
+  *)
+    echo "unknown command: $CMD" >&2
+    usage
+    exit 1
+    ;;
+esac
