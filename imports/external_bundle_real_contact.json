@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "source": "EXTERNAL_AUTHORITY_01",
+    "version": "1.0.0",
+    "timestamp": 1713110000
+  },
+  "payload": {
+    "g1_affine": "80af00c301",
+    "g2_affine": "b0cf00a202",
+    "trust_parameters": [
+      0,
+      1,
+      1,
+      0
+    ]
+  },
+  "fingerprint": "f2156b62b64b7f464d1e807e5d347a2405c22efdd5649a279938a3db35f4ccf1",
+  "signature_proof": "SIG_RSA_PSS_VALID_001"
+}
